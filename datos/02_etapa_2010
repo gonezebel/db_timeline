@@ -1,0 +1,6 @@
+{
+  "año": "2010",
+  "etapa": "NewSQL",
+  "descripcion": "Combinación de la escalabilidad de NoSQL con la consistencia fuerte de las bases de datos relacionales.",
+  "caracteristicas": ["Escalabilidad", "Consistencia fuerte", "ACID"]
+}

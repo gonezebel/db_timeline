@@ -1,0 +1,6 @@
+{
+      "año": "2018",
+      "etapa": "Bases de Datos Sin Servidor",
+      "descripcion": "Surgimiento de bases de datos sin servidor que escalan automáticamente según la demanda.",
+      "caracteristicas": ["Escalado automático", "Pago por uso", "Sin gestión de servidores"]
+    }

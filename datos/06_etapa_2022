@@ -1,0 +1,6 @@
+{
+      "año": "2022",
+      "etapa": "Bases de Datos de Borde",
+      "descripcion": "Procesamiento de datos más cerca de la fuente, como en dispositivos IoT, para reducir la latencia.",
+      "caracteristicas": ["Baja latencia", "Procesamiento en tiempo real", "Descentralización"]
+    }

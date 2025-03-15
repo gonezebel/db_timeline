@@ -1,0 +1,6 @@
+{
+  "año": "2000",
+  "etapa": "Aparición de NoSQL",
+  "descripcion": "Surgen bases de datos NoSQL para manejar datos no estructurados y escalabilidad horizontal.",
+  "caracteristicas": ["Flexibilidad en esquemas", "Escalabilidad horizontal", "Alta disponibilidad"]
+}

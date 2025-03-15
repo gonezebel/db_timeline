@@ -1,0 +1,6 @@
+    {
+      "año": "2015",
+      "etapa": "Bases de Datos Nativas de la Nube",
+      "descripcion": "Adopción de bases de datos completamente gestionadas en la nube, como Amazon Aurora y Google Cloud SQL.",
+      "caracteristicas": ["Escalado automático", "Alta disponibilidad", "Sin gestión de infraestructura"]
+    }

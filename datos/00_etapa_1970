@@ -1,0 +1,6 @@
+{
+  "año": "1970",
+  "etapa": "Bases de Datos Relacionales",
+  "descripcion": "Introducción del modelo relacional por Edgar F. Codd. Bases de datos como IBM System R y Oracle.",
+  "caracteristicas": ["Esquemas fijos", "SQL", "ACID"]
+}
